@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:hello_world/basic_widgets/fab_widgets.dart';
-import 'package:hello_world/basic_widgets/image_widgets.dart';
 import 'package:hello_world/basic_widgets/loading_cupertino.dart';
-import 'package:hello_world/basic_widgets/text_widgets.dart';
 
 void main() {
   runApp(const MyApp());

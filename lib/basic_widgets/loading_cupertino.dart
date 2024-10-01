@@ -12,9 +12,9 @@ class LoadingCupertinoWidget extends StatelessWidget {
       child: Column(
         children: <Widget>[
           CupertinoButton(
-            child: const Text("Contoh button"),
             color: Colors.amber,
             onPressed: () {},
+            child: const Text("Contoh button"),
           ),
           const CupertinoActivityIndicator(),
         ],
